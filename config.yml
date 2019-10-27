@@ -1,0 +1,14 @@
+---
+config:
+  heat:
+    - "07:00"
+    - "08:00"
+    - "19:30"
+    - "22:50"
+  delay_restroom_sw_1: 5
+  delay_restroom_fan_1: 30
+  delay_restroom_sw_2: 10 #60
+  delay_restroom_fan_2: 30 #300
+  delay_bath_sw: 0
+  delay_bath_fan: 30 # 300
+  delay_bath_heater: 45 #900
